@@ -1,5 +1,5 @@
 # hunny-digital
-## Clone do site da Hunny Digital, feito para fins estudantis.
+ Clone do site da Hunny Digital, feito para fins estudantis.
 
 Deploy: 
 <div style="display: inline_block"><br/>
